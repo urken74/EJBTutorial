@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Welcome to IronJacamar.org</title>
+    <meta content="width=device-width, initial-scale=1.0" name="viewport">
+    <meta name="description">
+    <link href="/stylesheets/styles.css" rel="stylesheet" type="text/css">
+    <link href="http://www.ironjacamar.org/favicon.ico" rel="shortcut icon" type="image/x-icon">
+    <!--[if lt IE 9]>
+      <script src="//html5shim.googlecode.com/svn/trunk/html5.js" type="text/javascript"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <header>
+      <section style="padding: -20px auto;">
+        <a href="/">
+          <img alt="IronJacamar" src="http://www.ironjacamar.org/images/banner.png">
+        </a>
+      </section>
+    </header>
+    <article>
+      <h1>Welcome to the IronJacamar community !</h1>
+      IronJacamar is an implementation of the
+      <a href="http://jcp.org/en/jsr/detail?id=322">Java EE Connector Architecture 1.7</a>
+      specification.
+      <p></p>
+      Java EE Connector Architecture defines a contract for how so-called Enterprise Information Systems
+      integrate with the Java Enterprise Edition Platform. Enterprise Information Systems include
+      databases, messaging systems, and other servers/systems external to an application server.
+      <p></p>
+      IronJacamar has been certified against both the Java EE Connector Architecture standalone profile,
+      and the full profile.
+      <p></p>
+      See the
+      <a href="/about.html">about</a>
+      section for more information about Java EE Connector Architecture.
+      <h2>
+        <a href="/news/">
+          News
+        </a>
+        <a href="/news/news.atom">
+          <img alt="RSS feed" src="/images/rss_16.png">
+        </a>
+      </h2>
+      <div class="news-table">
+        <table>
+          <tr>
+            <td>
+              August 3, 2015
+            </td>
+            <td>
+              <a href="/news/2015/08/03/IronJacamar125FinalReleased.html">IronJacamar 1.2.5.Final released</a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              April 14, 2015
+            </td>
+            <td>
+              <a href="/news/2015/04/14/IronJacamar124FinalReleased.html">IronJacamar 1.2.4.Final released</a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              March 25, 2015
+            </td>
+            <td>
+              <a href="/news/2015/03/25/IronJacamar123FinalReleased.html">IronJacamar 1.2.3.Final released</a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              January 13, 2015
+            </td>
+            <td>
+              <a href="/news/2015/01/13/IronJacamar122FinalReleased.html">IronJacamar 1.2.2.Final released</a>
+            </td>
+          </tr>
+          <tr>
+            <td>
+              December 9, 2014
+            </td>
+            <td>
+              <a href="/news/2014/12/09/IronJacamar121FinalReleased.html">IronJacamar 1.2.1.Final released</a>
+            </td>
+          </tr>
+        </table>
+      </div>
+      <h2>Getting started</h2>
+      <ol>
+        <li>
+          Download
+          <a href="/download.html">IronJacamar</a>
+        </li>
+        <li>
+          Read our
+          <a href="http://www.ironjacamar.org/doc/userguide/1.2/en-US/html/ch01.html#overview">overview</a>
+          in our
+          <a href="/documentation.html">user guide</a>
+        </li>
+        <li>
+          Check out our
+          <a href="http://www.ironjacamar.org/doc/userguide/1.2/en-US/html/apb.html#sample_helloworld">Hello World</a>
+          example
+        </li>
+        <li>
+          Run our
+          <a href="http://www.ironjacamar.org/doc/userguide/1.2/en-US/html/ch08.html">code generator</a>
+          to generate a project skeleton
+        </li>
+        <ul>
+          <li>
+            Or use our
+            <a href="http://www.ironjacamar.org/doc/userguide/1.2/en-US/html/ch09.html">Eclipse</a>
+            development plugin
+          </li>
+        </ul>
+        <li>
+          Execute the generated
+          <a href="http://www.arquillian.org">Arquillian</a>
+          /
+          <a href="http://www.shrinkwrap.org">ShrinkWrap</a>
+          test case
+        </li>
+      </ol>
+      <p></p>
+      And be sure, to read our user guide and the Java EE Connector Architecture 1.7 specification.
+      <p></p>
+      You are most welcome to use our
+      <a href="/community.html">community</a>
+      for asking questions about how to best implement your resource adapter.
+      <br>
+      <br>
+    </article>
+    <footer>
+      <ul>
+        <li>
+          <a href="/">Home</a>
+        </li>
+        <li>
+          <a href="/about.html">About</a>
+        </li>
+        <li>
+          <a href="/download.html">Download</a>
+        </li>
+        <li>
+          <a href="/documentation.html">Documentation</a>
+        </li>
+        <li>
+          <a href="/community.html">Community</a>
+        </li>
+        <li>
+          <a href="/sourcecode.html">Source Code</a>
+        </li>
+        <li>
+          <a href="/issues.html">Issues</a>
+        </li>
+      </ul>
+      <a href="http://www.redhat.com">
+        <img alt="Proudly sponsored by Red Hat" src="http://www.ironjacamar.org/images/redhat_logo.png">
+      </a>
+    </footer>
+  </body>
+</html>

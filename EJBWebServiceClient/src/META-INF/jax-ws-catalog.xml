@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<catalog xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog" prefer="system">
+    <system systemId="file:/C:/java-tools/jboss-as-7.1.1.Final/standalone/data/wsdl/EJBComponent.jar/LibraryService.wsdl" uri="wsdl/LibraryService.wsdl"/>
+</catalog>
