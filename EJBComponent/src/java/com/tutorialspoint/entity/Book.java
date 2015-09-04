@@ -30,10 +30,10 @@ public class Book implements Serializable {
     
     String name;
 
-    private byte[] image;   
+   /* private byte[] image;   
     
     private String xml;
-   
+   */
     public String getName() {
         return name;
     }
@@ -52,7 +52,7 @@ public class Book implements Serializable {
         this.id = id;
     }
     
-
+/*
    @Lob @Basic(fetch= FetchType.EAGER)
    public byte[] getImage() {
       return image;
@@ -70,7 +70,7 @@ public class Book implements Serializable {
 
    public void setXml(String xml) {
       this.xml = xml;
-   }
+   }*/
 
     @Override
     public int hashCode() {

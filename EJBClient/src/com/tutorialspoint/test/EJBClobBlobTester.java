@@ -32,7 +32,7 @@ public class EJBClobBlobTester {
    }
    
    private void testBlobClob(){
-
+/*
       try {
          int choice = 1; 
 
@@ -97,5 +97,6 @@ public class EJBClobBlobTester {
             System.out.println(ex.getMessage());
          }
       }
+   */     
    }
 }
